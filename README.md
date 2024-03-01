@@ -17,6 +17,7 @@ ___
 
 <br />
 
+#### THOUGHTS 💭
 "Navigating the intersection of design and code, my GitHub is a <br />
 creative lab where each commit is a stroke on the digital canvas. <br />
 I turn concepts into visual experiences, crafting interfaces that <br />
