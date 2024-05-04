@@ -32,4 +32,4 @@ ___
 ![Hennan Ravi GitHub stats](https://github-readme-stats.vercel.app/api?username=HennanRavi&show_icons=true&theme=dracula)
 
 #### LANGUAGES 💬
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HennanRavi&layout=donut-vertical&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HennanRavi&layout=donut-vertical&theme=dracula)](https://github.com/HennanRavi/github-readme-stats)
